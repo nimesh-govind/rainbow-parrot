@@ -8,7 +8,7 @@ Clone repo to local drive
 
 Install project dependencies
 ``
-npm i,
+npm i
 ``
 
 Run server
