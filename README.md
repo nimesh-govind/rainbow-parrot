@@ -1,6 +1,6 @@
 # Rainbow Parrot
 
-Bhavisha, Tati, Nimesh, Marika -- Week 4 project
+Bhavisha, Tatiana, Nimesh, Marika -- Week 4 project
 
 # Set up
 
