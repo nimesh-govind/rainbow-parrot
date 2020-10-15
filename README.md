@@ -1,4 +1,4 @@
-# TBC
+# Rainbow Parrot
 
 Bhavisha, Tati, Nimesh, Marika -- Week 4 project
 
@@ -11,14 +11,14 @@ clone repo, npm i, npm run dev open up local host
 server file with index.js and server.js public file with index.html and main.css
 app.jsx index.js
 
-# Steps
+# Initial Basic Steps
 
 Create a component that has one job: return a <div> using JSX.
 
 Place your < Pixel /> component in the render method of < App / so that it'll
 make it into the DOM.
 
-corresponds to the style attribute a height a width a background colour
+corresponds to the style attribute: height, width, background colour
 
 Add lots of pixels
 
