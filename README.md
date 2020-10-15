@@ -7,19 +7,13 @@ Bhavisha, Tatiana, Nimesh, Marika -- Week 4 project
 Clone repo to local drive
 
 Install project dependencies
-
 ``
 npm i,
 ``
-
-
 Run server
-
 ``
 npm run dev 
 ``
-
-
 Open local host page http://localhost:3000/
 
 # Files we need
