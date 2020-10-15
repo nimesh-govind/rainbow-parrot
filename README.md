@@ -2,6 +2,13 @@
 
 Bhavisha, Tatiana, Nimesh, Marika -- Week 4 project
 
+Is a Pixel Art wibsite based on mouse actions. 
+
+* Single Left Click = Green 
+* Click & Drag = Purple 
+* Right Click = Red
+* Double Click (to delete) = White
+
 # Set up
 
 Clone repo to local drive
