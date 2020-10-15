@@ -12,11 +12,13 @@ Install project dependencies
 npm i,
 ``
 
+
 Run server
 
 ``
 npm run dev 
 ``
+
 
 Open local host page http://localhost:3000/
 
