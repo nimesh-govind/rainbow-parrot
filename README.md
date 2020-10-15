@@ -2,7 +2,7 @@
 
 Bhavisha, Tatiana, Nimesh, Marika -- Week 4 project
 
-Is a Pixel Art wibsite based on mouse actions. 
+Is a Pixel Art website based on mouse actions. 
 
 * Single Left Click = Green 
 * Click & Drag = Purple 
